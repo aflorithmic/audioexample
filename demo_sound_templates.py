@@ -1,7 +1,7 @@
 import audiostack
 
 audiostack.api_base = "https://v2.api.audio"
-audiostack.api_key = "0b1173a6420c4c028690b7beff39hdik" # fill up
+audiostack.api_key = "APIKEY" # fill up
 
 script = """
 <as:section name="intro" soundsegment="intro">
